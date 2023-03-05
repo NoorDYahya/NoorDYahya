@@ -1,17 +1,19 @@
 
 
 
+
+
 ### :woman_technologist: About Me :
 - :telescope: I’m a Computer Science student at The Hebrew University of Jerusalem (HUJI).
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me:
 <div id="badges"align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/noor-dar-yahya-463b321bb/)">
+  <a href="https://www.linkedin.com/in/noor-dar-yahya-463b321bb/">
 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://mail.google.com/mail/u/0/#inbox?compose=new)">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
   <img src="https://img.shields.io/badge/gamil-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
