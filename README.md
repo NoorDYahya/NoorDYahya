@@ -2,7 +2,7 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a Computer Science student at The Hebrew Univirsary Of Jerusalem (Huji).
+- :telescope: I’m a Computer Science student at The Hebrew University of Jerusalem (HUJI).
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox:How to reach me:
