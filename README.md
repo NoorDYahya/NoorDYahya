@@ -4,10 +4,10 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a Computer Science student at The Hebrew University of Jerusalem (HUJI).
+-  I’m a Computer Science student at The Hebrew University of Jerusalem (HUJI).
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- :mailbox:How to reach me:
+- In my free time, I solve problems on LeetCode and read tech articles.
+- How to reach me:
 <div id="badges"align="center">
   <a href="https://www.linkedin.com/in/noor-dar-yahya-463b321bb/">
 
@@ -18,9 +18,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="400" height="400"/>
-</div>
 
 ---
 
