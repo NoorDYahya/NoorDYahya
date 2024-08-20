@@ -4,7 +4,7 @@
 
 
 ### :woman_technologist: About Me :
--  I’m a Computer Science student at The Hebrew University of Jerusalem (HUJI).
+-  A Computer Science graduate from The Hebrew University of Jerusalem (HUJI).
 
 - In my free time, I solve problems on LeetCode and read tech articles.
 - How to reach me:
